@@ -1,6 +1,7 @@
 ## Chenyuan Liu 
 
-👋 Hi, I'm Chenyuna Liu! I’m an M.Eng student at the University of the Chinese Academy of Sciences, and I received my B.Eng degree from Central South University. My research interests are in machine learning applications and embodied AI.
+👋 Hi, there!<br>
+I'm Chenyuna Liu! I’m an M.Eng student at the University of the Chinese Academy of Sciences, and I received my B.Eng degree from Central South University. My research interests are in machine learning applications and embodied AI.
 
 ## 📄 Research Interest
 🤖 Embodied AI : I am passionate about building robot systems that can perceive and understand the physical world, just like C-3PO.<br>
