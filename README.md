@@ -5,8 +5,8 @@
 I'm Chenyuna Liu! I’m an M.Eng student at the University of the Chinese Academy of Sciences, and I received my B.Eng degree from Central South University. My research interests are in machine learning applications and embodied AI.
 
 ## 📄 Research Interest
--🤖 Embodied AI : I am passionate about building robot systems or intelligent agent that can perceive and understand the physical world.<br>
--🧠 Machine Learning Application : I hope to be able to utilize machine learning technology to empower working systems to make them more intelligent and efficient.<br>
+- 🤖 Embodied AI : I am passionate about building robot systems or intelligent agent that can perceive and understand the physical world.<br>
+- 🧠 Machine Learning Application : I hope to be able to utilize machine learning technology to empower working systems to make them more intelligent and efficient.<br>
 
 ## 🔭 Goals of 2025
 
