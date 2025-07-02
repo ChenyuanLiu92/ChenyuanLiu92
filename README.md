@@ -11,8 +11,8 @@ I'm Chenyuna Liu! I’m an M.Eng student at the University of the Chinese Academ
 ## 🔭 Goals of 2025
 
 - I am looking for a PhD opportunity in 2026.
-- Create a repo to track the state-of-the-art in machine learning.
-- 
+- Creating a repo to track the awesome work in machine learning.
+- Tring to Implementate object concept inference in aloha robot initially.
 
 
 ## 🔗 Get in contact
