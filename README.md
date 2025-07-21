@@ -7,6 +7,7 @@ I'm Chenyuna Liu! I’m an M.Eng student at the University of the Chinese Academ
 ## 📄 Research Interest
 - 🤖 Embodied AI : I am passionate about building robot systems or intelligent agent that can perceive and understand the physical world.<br>
 - 🧠 Machine Learning Application : I hope to be able to utilize machine learning technology to empower working systems to make them more intelligent and efficient.<br>
+- 🌍 VLM and VLA
 
 ## 🔧 Skills
 - C++    (For engineering 🪛)
@@ -15,8 +16,6 @@ I'm Chenyuna Liu! I’m an M.Eng student at the University of the Chinese Academ
 ## 🔭 Goals of 2025
 
 - I am looking for a PhD opportunity in 2026.
-- Creating a repo to track the awesome work in machine learning.
-- Tring to Implementate object concept inference in aloha robot initially.
 
 
 ## 🔗 Get in contact
