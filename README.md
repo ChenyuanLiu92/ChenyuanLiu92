@@ -7,7 +7,6 @@ I'm Chenyuna Liu! I’m an M.Eng student at the University of the Chinese Academ
 ## 📄 Research Interest
 - 🤖 Embodied AI : I am passionate about building robot systems or intelligent agent that can perceive and understand the physical world.<br>
 - 🧠 Machine Learning Application : I hope to be able to utilize machine learning technology to empower working systems to make them more intelligent and efficient.<br>
-- 🌍 VLM and VLA
 
 ## 🔧 Skills
 - C++    (For engineering 🪛)
